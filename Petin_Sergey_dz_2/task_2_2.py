@@ -1,4 +1,4 @@
-start_list = ['в', '5', 'часов', '17', 'минут', 'температура', 'воздуха', 'была', '+5', 'градусов']
+start_list = ['в', '5', 'часов', '17', 'минут', 'температура', 'воздуха', 'была', '+15', 'градусов']
 fin_list = []
 for n in start_list:
     if not n[-1].isdigit():
@@ -14,7 +14,10 @@ for n in start_list:
             fin_list.append(_)
             continue
         if ord(n[0]) == 43 or 45:
-            _ = '"' + n[0] + '0' + n[-1] + '"'
+            if len(n) == 2:
+                _ = '"' + n[0] + '0' + n[1:] + '"'
+            else:
+                _ = '"' + n[0] + n[1:] + '"'
             fin_list.append(_)
 
 print(' '.join(fin_list))
