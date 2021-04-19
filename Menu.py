@@ -165,7 +165,7 @@ class Menu:
                 if new_str[0] == '3':
                     new_p = App.Copiers(*new_str)
                     new_str = new_p.str_gen()
-                    print(new_str)
+                    
                 St.Storage.save(new_str)
                 St.Storage.sort()
                 Menu.work()
