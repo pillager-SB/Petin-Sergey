@@ -1,0 +1,19 @@
+1;Canon PIXMA G1411;струйный;Цветная печать;4800x1200;А4;(USB 2.0);(СНПЧ, Canon GI-490 BK, Canon GI-490 C, Canon GI-490 M,Canon GI-490 Y);1;2
+1;Canon imagePROGRAF PRO-1000;струйный;Цветная печать;2400 x 1200;A2;(USB 2.0 ,Wi-Fi, LAN);(PFI-1000, PFI-1000 MBK, PFI-1000 PBK, PFI-1000 C, PFI-1000 M, PFI-1000 Y, PFI-1000 PC, PFI-1000 PM, PFI-1000 GY, PFI-1000 PGY, PFI-1000 R, PFI-1000 B);1;3
+1;Epson L1300 (A3+);струйный;Цветная печать;5760х1440;A3+;(USB 2.0);(СНПЧ, Epson C13T66414A, Epson C13T66424A, Epson C13T66434A, Epson C13T66444A);1;4
+1;Epson M1100;струйный;Монохромная печать;1440x720;A4;(USB 2.0);(c13t03p14a);1;3
+1;HP LaserJet Pro M15w;лазерный;Монохромная печать;600х600;А4;(USB 2.0, Wi-Fi);(HP 44A,CF244A);1;1
+1;HP Officejet 202 (N4K99C);струйный;Цветная печать;4800х1200;A4;(USB 2.0, Wi-Fi);(C2P10AE, C2P11AE);1;3
+1;Kyocera ECOSYS P2335dw;лазерный;Монохромная печать;1200x1200;A4;(USB 2.0, Wi-Fi, LAN);(TK-1200);1;3
+1;Pantum P2500W;лазерный;Монохромная печать;1200x1200;A4;(USB 2.0);(Pantum PC-211EV);1;2
+2;CanoScan LiDE400;планшетный;4800x4800;A4;(USB 3.0, USB 2.0, USB Type-C);2;3
+2;Fujitsu PA03595-B001;планшетный;600x600;A6;(USB 2.0, USB 1.1 );2;4
+2;Fujitsu PA03670-B551;планшетный/протяжной;600x600;A4;(USB 3.0);2;3
+2;Fujitsu ScanSnap S1300i;протяжной;600X600;A4;(USB 1.1, USB 2.0);2;3
+2;Fujitsu fi-7160;протяжной;600x600;A4;(USB 3.0);2;3
+2;HP ScanJet Pro 2500 f1 (L2747A);планшетный;1200x1200;A4;(USB 2.0);2;3
+2;Plustek SmartOffice PN2040;планшетный;600x600;A4;(USB 2.0, LAN);2;9
+3;Brother MFC-J3530DW;струйный;Цветная печать;4800x1200;A3;(USB 2.0, Wi-Fi, LAN);(LC-3619XLBk, LC-3619XLM, LC-3619XLC, LC-3619XL);1200x2400;A3;3;4
+3;Epson L1455;струйный;Цветная печать;4800х1200;A3+;(USB 2.0, Wi-Fi);(СНПЧ);1200x2400;A3;3;3
+3;HP LaserJet Pro MFP M28a;лазерный;Монохромная печать;600х600;А4;(USB 2.0);(HP 44A,CF244A);600x600;А4;3;4
+3;Xerox B205VNI;лазерный;Монохромная печать;1200х1200;А4;(USB 2.0, Wi-Fi, LAN);(Xerox 106R04348);4800x4800;A4;3;2
